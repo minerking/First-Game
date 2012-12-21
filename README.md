@@ -1,4 +1,6 @@
 First-Game
 ==========
 
-First Time Game Code
+## About
+
+The code for the first game will be committed here
